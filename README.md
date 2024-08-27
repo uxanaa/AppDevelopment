@@ -14,5 +14,6 @@
 
 <ul>    
   <li>Year 2022-2023</li>
+  <li>Module Mark: 66%</li>
   <li>Lectuer: Mr P Jimmieson Phil@liverpool.ac.uk</li>
 </ul>
